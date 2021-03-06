@@ -587,6 +587,14 @@ a:hover, a:active, a:focus {
   padding: 52px 22px 52px 22px;
   margin: 10px;
 }
+.service-thumb {
+  padding: 52px 22px 52px 22px;
+  margin: 10px;
+}
+
+.row{
+  padding: 0px 0px 0px -1px;
+}
 
 
 
@@ -624,6 +632,14 @@ a:hover, a:active, a:focus {
     position: relative;
     min-height: 65vh;
   }
+}
+.service-thumb {
+  padding: 52px 22px 52px 22px;
+  margin: 10px;
+}
+
+.row{
+  padding: 0px 0px 0px -1px;
 }
 
 @media only screen and (max-width: 1024px) {
