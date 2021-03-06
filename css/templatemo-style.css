@@ -361,6 +361,7 @@ a:hover, a:active, a:focus {
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
+  padding-left: 0;
   height: 100vh;
   /* border-radius: 224px; */
 }
