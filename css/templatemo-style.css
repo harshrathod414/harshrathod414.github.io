@@ -641,5 +641,5 @@ a:hover, a:active, a:focus {
 }
 
 .row{
-  padding: auto;
+  padding: 0px 0px 0px -1px;
 }
